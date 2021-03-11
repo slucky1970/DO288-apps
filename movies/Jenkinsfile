@@ -10,8 +10,8 @@ pipeline {
     }
 
     environment {
-        DEV_PROJECT = "youruser-movies-dev"
-        STAGE_PROJECT = "youruser-movies-stage"
+        DEV_PROJECT = "sl2000-outlook-com-movies-dev"
+        STAGE_PROJECT = "sl2000-outlook-com-movies-stage"
         APP_GIT_URL = "https://github.com/slucky1970/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.ap45.prod.nextcle.com/repository/java"
 
