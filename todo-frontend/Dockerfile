@@ -25,3 +25,4 @@ USER 1001
 
 CMD nginx -g "daemon off;"
 
+
